@@ -1,1 +1,3 @@
 # DataGotTalent2024---Movies-Analysis
+
+Link [PowerBI Dashboard]([https://docs.github.com/en/graphql/overview/resource-limitations](https://app.powerbi.com/view?r=eyJrIjoiZjBiZmUxNjItNGVhMy00ZTA0LWIyZDMtODJiZjg5YTkzZTg4IiwidCI6ImJjNWMxMGQwLTY5OWEtNDA1Mi1hNDk2LWM2NjY1NTU3NzYyZSIsImMiOjEwfQ%3D%3D&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExaHI5aDU0UWpxNkhjYnRUQwEeQ0JMmxYUzPMmv1H7PGjIU6S5zSYNbGgAhTJSsM2RLicuPnDaZOQpBA32hh4_aem_hktMWJaEfM1HNHNgasILNQ))
