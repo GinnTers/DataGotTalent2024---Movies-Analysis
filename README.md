@@ -58,7 +58,7 @@ The raw dataset required significant cleaning due to mixed header rows, multilin
      - Customer segmentation by demographics
      - Sales trends over time
    - Added slicers and filters for dynamic data exploration
-   - Link [PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjBiZmUxNjItNGVhMy00ZTA0LWIyZDMtODJiZjg5YTkzZTg4IiwidCI6ImJjNWMxMGQwLTY5OWEtNDA1Mi1hNDk2LWM2NjY1NTU3NzYyZSIsImMiOjEwfQ%3D%3D&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExaHI5aDU0UWpxNkhjYnRUQwEeQ0JMmxYUzPMmv1H7PGjIU6S5zSYNbGgAhTJSsM2RLicuPnDaZOQpBA32hh4_aem_hktMWJaEfM1HNHNgasILNQ)
+   - You can refer to this link [PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjBiZmUxNjItNGVhMy00ZTA0LWIyZDMtODJiZjg5YTkzZTg4IiwidCI6ImJjNWMxMGQwLTY5OWEtNDA1Mi1hNDk2LWM2NjY1NTU3NzYyZSIsImMiOjEwfQ%3D%3D&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExaHI5aDU0UWpxNkhjYnRUQwEeQ0JMmxYUzPMmv1H7PGjIU6S5zSYNbGgAhTJSsM2RLicuPnDaZOQpBA32hh4_aem_hktMWJaEfM1HNHNgasILNQ) or `Data_Got_Talent-Dashboard.pdf` or `Data_Got_Talent-Dashboard.pbix`.
 
 4. **Insight Generation & Reporting**:
    - Extracted key business insights from visual analysis
